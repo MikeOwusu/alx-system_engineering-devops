@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cut -c 1 | paste -s -d '' 
+=======
+cut -c 1 | paste -s -d ''
+>>>>>>> 3e9319dfd92de082e27201afd9e199b56e6ecd65
